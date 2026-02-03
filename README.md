@@ -10,28 +10,33 @@ memory placement, cache handling, and stable rendering using LTDC.
 
 ## Demo
 
-<table border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="padding:4px">
-      <img src="assets/demo_analytics.jpeg" width="320" style="display:block;">
+      <img src="assets/demo_analytics.jpeg" width="340" style="display:block;margin:auto;">
       <div><small>Analytics Screen</small></div>
     </td>
     <td align="center" style="padding:4px">
-      <img src="assets/demo_memory.jpeg" width="320" style="display:block;">
+      <img src="assets/demo_memory.jpeg" width="340" style="display:block;margin:auto;">
       <div><small>Memory Details</small></div>
     </td>
   </tr>
   <tr>
     <td align="center" style="padding:4px">
-      <img src="assets/demo_checkbox.jpeg" width="320" style="display:block;">
+      <img src="assets/demo_checkbox.jpeg" width="340" style="display:block;margin:auto;">
       <div><small>Checkbox Widgets</small></div>
     </td>
     <td align="center" style="padding:4px">
-      <img src="assets/demo_spinner.jpeg" width="320" style="display:block;">
+      <img src="assets/demo_spinner.jpeg" width="340" style="display:block;margin:auto;">
       <div><small>Spinner Widgets</small></div>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 
