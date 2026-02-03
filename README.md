@@ -1,10 +1,13 @@
 # STM32F746G-DISCO – LVGL Demo
 
-![GitHub stars](https://img.shields.io/github/stars/Venky474/STM32F746-LVGL-Demo)
-![GitHub forks](https://img.shields.io/github/forks/Venky474/STM32F746-LVGL-Demo)
-![License](https://img.shields.io/github/license/Venky474/STM32F746-LVGL-Demo)
-![Platform](https://img.shields.io/badge/platform-STM32-blue)
-![GUI](https://img.shields.io/badge/GUI-LVGL-green)
+<p align="left">
+  <img src="https://img.shields.io/github/stars/Venky474/STM32F746-LVGL-Demo">
+  <img src="https://img.shields.io/github/forks/Venky474/STM32F746-LVGL-Demo">
+  <img src="https://img.shields.io/github/license/Venky474/STM32F746-LVGL-Demo">
+  <img src="https://img.shields.io/badge/platform-STM32-blue">
+  <img src="https://img.shields.io/badge/GUI-LVGL-green">
+</p>
+
 
 This project demonstrates the integration of the LVGL graphics library on the STM32F746G-DISCO board.
 
