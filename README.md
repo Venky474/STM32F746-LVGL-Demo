@@ -10,7 +10,7 @@ memory placement, cache handling, and stable rendering using LTDC.
 
 ## Demo
 
-![LVGL Demo](assets/demo.jpeg)
+![LVGL Demo](https://raw.githubusercontent.com/Venky474/STM32F746-LVGL-Demo/main/assets/demo.jpeg)
 
 
 ---
