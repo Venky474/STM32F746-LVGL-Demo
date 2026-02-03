@@ -10,7 +10,7 @@ memory placement, cache handling, and stable rendering using LTDC.
 
 ## Demo
 
-![LVGL Demo](assets/lvgl-demo-widgets.jpg)
+![LVGL Demo](assets/assets/Demo.jpeg)
 
 ---
 
